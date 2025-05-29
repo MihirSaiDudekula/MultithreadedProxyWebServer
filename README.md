@@ -1,5 +1,3 @@
-Here’s an improved and well-organized version of the instructions suitable for a GitHub README:
-
 ---
 
 # Multithreaded Proxy Server with Caching
